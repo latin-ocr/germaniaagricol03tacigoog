@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germaniaagricol03tacigoog_0006.png"; bbox 0 0 2474 4068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 171 1325 902 1448">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 171 1325 902 1448">
+     <span class='ocr_line' id='line_1_1' title="bbox 171 1325 902 1448; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 171 1325 578 1448; x_wconf 76' lang='lat' dir='ltr'>CORNELII</span> <span class='ocrx_word' id='word_1_2' title='bbox 616 1328 902 1448; x_wconf 80' lang='grc' dir='ltr'><strong>ΤΑΟΙΤΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 257 1731 824 1806">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 257 1731 824 1806">
+     <span class='ocr_line' id='line_1_2' title="bbox 257 1731 824 1806; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 257 1732 524 1806; x_wconf 83' lang='lat' dir='ltr'><strong>GERMANIA.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 568 1731 824 1806; x_wconf 79' lang='lat' dir='ltr'><strong>AGRIOOLA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 114 2081 956 2167">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 114 2081 956 2167">
+     <span class='ocr_line' id='line_1_3' title="bbox 114 2081 956 2167; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 114 2081 419 2166; x_wconf 81' lang='lat' dir='ltr'>DIALOGUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 452 2081 534 2164; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 564 2081 956 2167; x_wconf 80' lang='lat' dir='ltr'><strong>ORATORIBUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1242 4068">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1242 4068">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1242 4068; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1242 4068; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
